@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<StackXXL.XLSize.Title>Множитель XL</StackXXL.XLSize.Title>
+	<StackXXL.XLSize.Desc>Множитель XL(По умолчанию: 10x), не обязательно целое число</StackXXL.XLSize.Desc>
+	<StackXXL.XXLSize.Title>Множитель XXL</StackXXL.XXLSize.Title>
+	<StackXXL.XXLSize.Desc>Множитель XXL(По умолчанию: 20x), не обязательно целое число</StackXXL.XXLSize.Desc>
+	<StackXXL.Size.Default>Не изменено</StackXXL.Size.Default>
+	<StackXXL.Size.XL>XL</StackXXL.Size.XL>
+	<StackXXL.Size.XXL>XXL</StackXXL.Size.XXL>
+	<StackXXL.DebugMode.Title>Режим отладки</StackXXL.DebugMode.Title>
+	<StackXXL.DebugMode.Desc>Включение ведения подробного журнала.</StackXXL.DebugMode.Desc>
+	
+	<StackXXL.Stack.Resources.Title>Ресурсы</StackXXL.Stack.Resources.Title>
+	<StackXXL.Stack.Resources.Desc>Сырьё, медицина, каменные блоки, компоненты, топливо и тд.</StackXXL.Stack.Resources.Desc>
+		
+	<StackXXL.Stack.Textiles.Title>Текстиль</StackXXL.Stack.Textiles.Title>
+	<StackXXL.Stack.Textiles.Desc>Текстиль и шкуры.</StackXXL.Stack.Textiles.Desc>
+
+	<StackXXL.Stack.Drugs.Title>Наркотики</StackXXL.Stack.Drugs.Title>
+	<StackXXL.Stack.Drugs.Desc>Все наркотики и алкоголь.</StackXXL.Stack.Drugs.Desc>
+	
+	<StackXXL.Stack.Meat.Title>Мясо</StackXXL.Stack.Meat.Title>
+	<StackXXL.Stack.Meat.Desc>Сырое мясо.</StackXXL.Stack.Meat.Desc>
+	
+	<StackXXL.Stack.Raw.Title>Сырая еда</StackXXL.Stack.Raw.Title>
+	<StackXXL.Stack.Raw.Desc>Сырые овощи, яйца, желе и тд.</StackXXL.Stack.Raw.Desc>
+	
+	<StackXXL.Stack.Meals.Title>Питание</StackXXL.Stack.Meals.Title>
+	<StackXXL.Stack.Meals.Desc>Все виды пищи.</StackXXL.Stack.Meals.Desc>
+	
+	<StackXXL.Stack.BodyParts.Title>Части тела</StackXXL.Stack.BodyParts.Title>
+	<StackXXL.Stack.BodyParts.Desc>Бионичесие и природные части тела, органы и имплантаты, для людей и животных.</StackXXL.Stack.BodyParts.Desc>
+	
+	<StackXXL.Stack.Others.Stackable.Title>Остальное (стакиваемое)</StackXXL.Stack.Others.Stackable.Title>
+	<StackXXL.Stack.Others.Stackable.Desc>Рога, клыки.</StackXXL.Stack.Others.Stackable.Desc>
+		
+	<StackXXL.Stack.Others.Single.Title>Остальное (одиночное)</StackXXL.Stack.Others.Single.Title>
+	<StackXXL.Stack.Others.Single.Desc>(Не используется)</StackXXL.Stack.Others.Single.Desc>
+</LanguageData>
